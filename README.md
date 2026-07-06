@@ -92,9 +92,9 @@ SELECT 'Database setup completed successfully!' AS Status;
 npm start
 ```
 ## Workflow Video
-```
+
 https://github.com/user-attachments/assets/47d5998f-67da-4a66-999b-b141cd4bef92
-```
+
 
 
 
