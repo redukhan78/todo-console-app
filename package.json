@@ -1,0 +1,19 @@
+{
+  "name": "todo-console-app",
+  "version": "1.0.0",
+  "description": "A simple console-based TODO app",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.7",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
